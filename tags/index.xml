@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Alice&#39;s scribbles</title>
+    <title>Tags on alice&#39;s scribbles</title>
     <link>http://alicescribbles.github.io/tags/</link>
-    <description>Recent content in Tags on Alice&#39;s scribbles</description>
+    <description>Recent content in Tags on alice&#39;s scribbles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Dec 2021 16:34:02 +0800</lastBuildDate><atom:link href="http://alicescribbles.github.io/tags/index.xml" rel="self" type="application/rss+xml" />

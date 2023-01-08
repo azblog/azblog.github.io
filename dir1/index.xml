@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on alice&#39;s scribbles</title>
+    <link>http://alicescribbles.github.io/dir1/</link>
+    <description>Recent content in _Index on alice&#39;s scribbles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2023 14:35:09 +0000</lastBuildDate><atom:link href="http://alicescribbles.github.io/dir1/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E7%94%B0%E8%9E%BA%E5%A7%91%E5%A8%98/</loc>
-    <lastmod>2022-05-19T20:51:49+08:00</lastmod>
+    <loc>http://alicescribbles.github.io/dir1/</loc>
+    <lastmod>2023-01-08T14:35:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://alicescribbles.github.io/</loc>
+    <lastmod>2023-01-08T14:35:09+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alicescribbles.github.io/post/%E7%94%B0%E8%9E%BA%E5%A7%91%E5%A8%98/</loc>
     <lastmod>2022-05-19T20:51:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
