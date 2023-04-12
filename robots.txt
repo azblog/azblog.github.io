@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://alicescribbles.github.io/sitemap.xml
+Sitemap: http://alicez.ink/sitemap.xml

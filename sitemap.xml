@@ -1,183 +1,183 @@
-<?xml-stylesheet type="text/xsl" href="http://alicescribbles.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://alicez.ink/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://alicescribbles.github.io/</loc>
+    <loc>http://alicez.ink/</loc>
     <lastmod>2023-03-14T22:44:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/</loc>
+    <loc>http://alicez.ink/post/</loc>
     <lastmod>2023-03-14T22:44:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93%E4%B8%A4%E8%BD%AE%E7%94%B3%E8%AF%B7%E5%90%8E%E6%88%91%E6%83%B3%E8%AF%B4%E4%BA%9B%E4%BB%80%E4%B9%88/</loc>
+    <loc>http://alicez.ink/post/%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93%E4%B8%A4%E8%BD%AE%E7%94%B3%E8%AF%B7%E5%90%8E%E6%88%91%E6%83%B3%E8%AF%B4%E4%BA%9B%E4%BB%80%E4%B9%88/</loc>
     <lastmod>2023-03-14T22:44:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E6%8B%B4%E4%BD%8F%E4%B8%80%E6%8A%8A%E6%89%AB%E5%B8%9A/</loc>
+    <loc>http://alicez.ink/post/%E6%8B%B4%E4%BD%8F%E4%B8%80%E6%8A%8A%E6%89%AB%E5%B8%9A/</loc>
     <lastmod>2023-02-21T17:33:14+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/tags/</loc>
+    <loc>http://alicez.ink/tags/</loc>
     <lastmod>2023-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/tags/%E9%9D%9E%E5%85%AC%E5%BC%80%E5%AD%98%E6%A1%A3/</loc>
+    <loc>http://alicez.ink/tags/%E9%9D%9E%E5%85%AC%E5%BC%80%E5%AD%98%E6%A1%A3/</loc>
     <lastmod>2023-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/memo/</loc>
+    <loc>http://alicez.ink/memo/</loc>
     <lastmod>2023-01-11T17:03:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/2022-curriculum-vitae/</loc>
+    <loc>http://alicez.ink/post/2022-curriculum-vitae/</loc>
     <lastmod>2023-01-10T12:59:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://alicez.ink/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2023-01-10T12:59:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/friends/</loc>
+    <loc>http://alicez.ink/friends/</loc>
     <lastmod>2023-01-08T14:35:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E7%94%B0%E8%9E%BA%E5%A7%91%E5%A8%98/</loc>
+    <loc>http://alicez.ink/post/%E7%94%B0%E8%9E%BA%E5%A7%91%E5%A8%98/</loc>
     <lastmod>2022-05-19T20:51:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/post-valentine%E4%B8%89%E5%88%99/</loc>
+    <loc>http://alicez.ink/post/post-valentine%E4%B8%89%E5%88%99/</loc>
     <lastmod>2022-02-15T20:53:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E8%AF%91%E4%B9%A6-paris-is-a-party/</loc>
+    <loc>http://alicez.ink/post/%E8%AF%91%E4%B9%A6-paris-is-a-party/</loc>
     <lastmod>2022-01-09T20:09:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/2021-curriculum-vitae/</loc>
+    <loc>http://alicez.ink/post/2021-curriculum-vitae/</loc>
     <lastmod>2021-12-26T16:34:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/67/</loc>
+    <loc>http://alicez.ink/post/67/</loc>
     <lastmod>2021-12-06T16:07:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E4%B9%A6%E8%AF%84%E9%98%BF%E5%B0%94%E5%90%89%E4%BE%AC/</loc>
+    <loc>http://alicez.ink/post/%E4%B9%A6%E8%AF%84%E9%98%BF%E5%B0%94%E5%90%89%E4%BE%AC/</loc>
     <lastmod>2021-10-10T16:17:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E8%AE%B0%E4%BB%8A%E6%97%A5%E7%9A%841400-1500/</loc>
+    <loc>http://alicez.ink/post/%E8%AE%B0%E4%BB%8A%E6%97%A5%E7%9A%841400-1500/</loc>
     <lastmod>2021-01-19T20:49:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/2020-curriculum-vitae/</loc>
+    <loc>http://alicez.ink/post/2020-curriculum-vitae/</loc>
     <lastmod>2021-01-17T20:21:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/prohibit-entryexit/</loc>
+    <loc>http://alicez.ink/post/prohibit-entryexit/</loc>
     <lastmod>2020-12-12T16:04:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E9%94%81%E9%93%BE/</loc>
+    <loc>http://alicez.ink/post/%E9%94%81%E9%93%BE/</loc>
     <lastmod>2020-11-15T15:43:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/bugs/</loc>
+    <loc>http://alicez.ink/post/bugs/</loc>
     <lastmod>2020-05-06T15:38:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E5%B9%B3%E5%BA%B8%E7%9A%84%E5%B9%B3%E5%BA%B8%E7%9A%84%E6%81%B6/</loc>
+    <loc>http://alicez.ink/post/%E5%B9%B3%E5%BA%B8%E7%9A%84%E5%B9%B3%E5%BA%B8%E7%9A%84%E6%81%B6/</loc>
     <lastmod>2020-04-19T15:53:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E6%B8%85%E6%98%8E%E7%B5%AE%E8%AF%AD/</loc>
+    <loc>http://alicez.ink/post/%E6%B8%85%E6%98%8E%E7%B5%AE%E8%AF%AD/</loc>
     <lastmod>2020-04-04T15:23:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B9%96%E5%8C%97%E7%9C%81%E5%86%85%E7%A7%BB%E5%8A%A8%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C/</loc>
+    <loc>http://alicez.ink/post/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B9%96%E5%8C%97%E7%9C%81%E5%86%85%E7%A7%BB%E5%8A%A8%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C/</loc>
     <lastmod>2020-03-14T15:44:45+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/post/%E8%80%81%E4%BA%BA%E5%92%8C%E9%B1%BC/</loc>
+    <loc>http://alicez.ink/post/%E8%80%81%E4%BA%BA%E5%92%8C%E9%B1%BC/</loc>
     <lastmod>2020-01-08T14:53:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicescribbles.github.io/categories/</loc>
+    <loc>http://alicez.ink/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
