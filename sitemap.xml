@@ -30,15 +30,8 @@
   </url>
   
   <url>
-    <loc>http://alicez.ink/tags/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://alicez.ink/tags/%E9%9D%9E%E5%85%AC%E5%BC%80%E5%AD%98%E6%A1%A3/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+    <loc>http://alicez.ink/accessing-archives/</loc>
+    <lastmod>2023-01-11T17:03:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -52,6 +45,13 @@
   
   <url>
     <loc>http://alicez.ink/post/2022-curriculum-vitae/</loc>
+    <lastmod>2023-01-10T12:59:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alicez.ink/tags/</loc>
     <lastmod>2023-01-10T12:59:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -165,6 +165,13 @@
   <url>
     <loc>http://alicez.ink/post/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B9%96%E5%8C%97%E7%9C%81%E5%86%85%E7%A7%BB%E5%8A%A8%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C/</loc>
     <lastmod>2020-03-14T15:44:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alicez.ink/tags/%E9%9D%9E%E5%85%AC%E5%BC%80%E5%AD%98%E6%A1%A3/</loc>
+    <lastmod>2020-01-25T14:58:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
