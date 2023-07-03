@@ -404,7 +404,7 @@ const serviceArgs = ['mastodon',
   'img_mastodon',
   'https://thu.closed.social',
 
-  'public, unlisted',
+  'public, unlisted, private',
 ]
 
 const serviceName = serviceArgs[0]
