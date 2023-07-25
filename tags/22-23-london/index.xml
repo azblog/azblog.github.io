@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>22-23 @ London on alice&#39;s scribbles</title>
+    <link>http://alicez.ink/tags/22-23-london/</link>
+    <description>Recent content in 22-23 @ London on alice&#39;s scribbles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jul 2023 23:25:50 +0800</lastBuildDate><atom:link href="http://alicez.ink/tags/22-23-london/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>蜗壳小岛</title>
+      <link>http://alicez.ink/post/snail-shell-island/</link>
+      <pubDate>Tue, 25 Jul 2023 23:25:50 +0800</pubDate>
+      
+      <guid>http://alicez.ink/post/snail-shell-island/</guid>
+      <description>半年蜗居小记，及相关随想&lt;br&gt;兼为伦敦生活复盘3/3</description>
+    </item>
+    
+    <item>
+      <title>Ozempic Utopia</title>
+      <link>http://alicez.ink/post/ozempic-utopia/</link>
+      <pubDate>Fri, 07 Jul 2023 14:04:15 +0100</pubDate>
+      
+      <guid>http://alicez.ink/post/ozempic-utopia/</guid>
+      <description>2023年5-6月减重记录及反思&lt;br&gt;兼为伦敦生活复盘2/3</description>
+    </item>
+    
+    <item>
+      <title>柔软暮春</title>
+      <link>http://alicez.ink/post/soft-spring/</link>
+      <pubDate>Wed, 31 May 2023 19:51:53 +0100</pubDate>
+      
+      <guid>http://alicez.ink/post/soft-spring/</guid>
+      <description>记录一个，每一秒都刻着&amp;quot;chill&amp;quot;的，伦敦傍晚。&lt;br&gt;兼为伦敦生活复盘1/3</description>
+    </item>
+    
+  </channel>
+</rss>
