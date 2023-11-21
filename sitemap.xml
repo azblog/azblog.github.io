@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://alicez.ink/tags/22-23-london/</loc>
-    <lastmod>2023-07-25T23:25:50+08:00</lastmod>
+    <loc>http://alicez.ink/</loc>
+    <lastmod>2023-11-17T10:50:59-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://alicez.ink/</loc>
-    <lastmod>2023-07-25T23:25:50+08:00</lastmod>
+    <loc>http://alicez.ink/post/nov%E6%B8%B8%E8%AE%B0/</loc>
+    <lastmod>2023-11-17T10:50:59-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://alicez.ink/post/</loc>
+    <lastmod>2023-11-17T10:50:59-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alicez.ink/tags/22-23-london/</loc>
     <lastmod>2023-07-25T23:25:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
