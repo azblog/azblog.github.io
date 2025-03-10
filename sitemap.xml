@@ -2,15 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://alicez.ink/post/2024-curriculum-vitae/</loc>
+    <lastmod>2025-01-05T19:58:27-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://alicez.ink/</loc>
-    <lastmod>2024-04-28T03:52:08+01:00</lastmod>
+    <lastmod>2025-01-05T19:58:27-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://alicez.ink/post/</loc>
-    <lastmod>2024-04-28T03:52:08+01:00</lastmod>
+    <lastmod>2025-01-05T19:58:27-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alicez.ink/tags/</loc>
+    <lastmod>2025-01-05T19:58:27-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alicez.ink/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2025-01-05T19:58:27-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,20 +45,6 @@
   
   <url>
     <loc>http://alicez.ink/post/2023-curriculum-vitae/</loc>
-    <lastmod>2023-12-19T23:27:08-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://alicez.ink/tags/</loc>
-    <lastmod>2023-12-19T23:27:08-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://alicez.ink/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2023-12-19T23:27:08-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
